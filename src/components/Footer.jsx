@@ -87,18 +87,7 @@ const Footer = () => {
             >
               Search and Filters
             </Link>
-            <Link
-              to="/"
-              className=" hover:translate-x-3 transition duration-200 ease-linear"
-            >
-              Secure Payment
-            </Link>
-            <Link
-              to="/"
-              className=" hover:translate-x-3 transition duration-200 ease-linear"
-            >
-              Geolocation Services
-            </Link>
+        
           </div>
         </div>
       </div>
